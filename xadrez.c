@@ -15,7 +15,7 @@ int main() {
    printf("Bispo\n");
    int Bispo_matematico = 0;
    while (Bispo_matematico < Bispo) {
-      printf("Diagonal Direita (%d)\n", Bispo_matematico + 1);
+      printf("Cima e Direita (%d)\n", Bispo_matematico + 1);
       Bispo_matematico++;
    } 
    printf(" \n");
